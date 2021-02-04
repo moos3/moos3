@@ -1,25 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Who Am I?"
 date = "2021-02-04"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "contact"]
+author = "Moose"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Who am I ? Well I'm a DevOps Engineer that has always dreamed about doing the AT as a section hike. I have been given a oppurnity to do a thru-hike instead. So I'm going to be hiking two weeks at a time, coming out for a week for work. During that week of working, i'm going to be posting about my journey here. 
 
-Hugo makes use of a variety of open source projects including:
+Stats:
+Role: Dad, with 2 kids
+Plan: Leave Apirl 1-ish, hike 2100+ miles of the AT. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Equpiment List:
+coming soon!
