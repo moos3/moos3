@@ -3,15 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mythruhike.me/categories/</loc>
+    <loc>http://mythruhike.me/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mythruhike.me/</loc>
+    <loc>http://mythruhike.me/tags/at/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/categories/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/categories/getting-ready/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/post/kick-off/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/post/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/tags/prep/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://mythruhike.me/tags/</loc>
+    <lastmod>2021-02-04T10:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/archives/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/about/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mythruhike.me/contact/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
