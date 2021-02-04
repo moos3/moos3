@@ -1,0 +1,4 @@
+baseURL = "http://mythruhike.me/"
+languageCode = "en-us"
+title = "My Thru Hike"
+theme = 'anatole'
